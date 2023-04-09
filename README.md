@@ -17,6 +17,10 @@ Spinner Mania is a hyper casual mobile game made in Unity developed by [me](http
 
 ## Screenshots 📸 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dannesx/spinner-mania/main/Repo/Images/screenshot.jpg" height="600"/>
+</div>
+
 ## Thanks 😋
 
 ✨ Thank you to support this project! Hope you have fun! ✨
