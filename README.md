@@ -5,9 +5,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/dannesx/spinner-mania) ![Release Date](https://img.shields.io/github/release-date/dannesx/spinner-mania) ![Release Version](https://img.shields.io/github/v/release/dannesx/spinner-mania) 
 ![Downloads](https://img.shields.io/github/downloads/dannesx/spinner-mania/total) [![Download now](https://img.shields.io/badge/-download%20now-blueviolet)](https://github.com/dannesx/spinner-mania/releases/download/v0.1.0/Spinner-Mania-v0.1.0.apk)
 
-> You spin me right round, baby, right round 🎵
-
----
+_You spin me right round, baby, right round 🎵_
 
 </div>
 
